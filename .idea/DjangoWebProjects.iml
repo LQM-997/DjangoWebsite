@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="django" name="Django">
+      <configuration>
+        <option name="rootFolder" value="$MODULE_DIR$" />
+        <option name="settingsModule" value="DjangoWebProject/YeRanProject/settings.py" />
+        <option name="manageScript" value="DjangoWebProject/manage.py" />
+        <option name="environment" value="&lt;map/&gt;" />
+        <option name="doNotUseTestRunner" value="false" />
+        <option name="trackFilePattern" value="" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/apps" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/apps/diarys" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/apps/news" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/apps/operation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/apps/pay" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/apps/scenicspots" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/apps/shop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/apps/users" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/apps/utils" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/DjangoUeditor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/DjangoUeditor/static" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/DjangoUeditor/static/ueditor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/DjangoUeditor/static/ueditor/_examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/DjangoUeditor/static/ueditor/_examples/server" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/DjangoUeditor/static/ueditor/dialogs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/DjangoUeditor/static/ueditor/lang" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/DjangoUeditor/static/ueditor/php" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/DjangoUeditor/static/ueditor/themes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/DjangoUeditor/static/ueditor/third-party" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/DjangoUeditor/templates" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/xadmin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/static" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/xadmin/.tx" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/xadmin/locale" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/xadmin/migrations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/xadmin/plugins" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/xadmin/static" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/xadmin/templates" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/xadmin/templatetags" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/xadmin/views" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/active" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/banner" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/diary" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/image" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/news" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/product" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/shop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/spots" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/ueimages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/xadmin/static/xadmin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/xadmin/static/xadmin/css" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/xadmin/static/xadmin/css/themes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/xadmin/static/xadmin/js" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/xadmin/static/xadmin/vendor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/extra_apps/xadmin/static/xadmin/vendor/autotype" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/active/2018" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/active/2018/11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/banner/2018" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/banner/2022" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/banner/2022/04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/diary/2018" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/diary/2018/10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/image/1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/image/None" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/news/2018" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/news/2018/10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/news/2018/11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/product/2018" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/product/2018/11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/product/2022" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/product/2022/04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/product/mainimg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/product/mainimg/2018" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/product/mainimg/2022" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/shop/ueditor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/spots/banner" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/spots/banner/2018" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/spots/banner/2018/10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/spots/banner/2022" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/spots/banner/2022/03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/spots/banner/2022/04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/spots/mainfigure" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/spots/mainfigure/2018" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/spots/mainfigure/2018/10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/spots/thumbnail" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/spots/thumbnail/2018" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/spots/thumbnail/2018/10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/spots/thumbnail/2022" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/spots/thumbnail/2022/03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/spots/thumbnail/2022/04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/static/admin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/static/admin/css" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/static/admin/css/vendor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/static/admin/fonts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/static/admin/img" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/static/admin/img/gis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/static/admin/js" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/static/admin/js/admin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/static/admin/js/vendor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/static/admin/js/vendor/jquery" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/static/admin/js/vendor/select2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/static/admin/js/vendor/select2/i18n" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/static/admin/js/vendor/xregexp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/static/css" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/static/fonts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/static/images" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/static/js" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/static/ueditor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/static/ueditor/_examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/static/xadmin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/templates" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/static" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/static/admin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/static/css" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/static/fonts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/static/images" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/static/js" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/static/ueditor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/static/xadmin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/YeRanProject" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/apps/diarys/migrations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/apps/news/migrations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/apps/operation/migrations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/apps/operation/templatetags" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/apps/pay/keys" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/apps/pay/migrations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/apps/scenicspots/migrations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/apps/shop/migrations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/apps/users/migrations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/diary/2022" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/image/5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/news/2022" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/news/2022/04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/news/ueditor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DjangoWebProject/media/spots/mainfigure/2022" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.9 (DjangoWebProjects)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Django" />
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/../DjangoWebProject\templates" />
+      </list>
+    </option>
+  </component>
+</module>
